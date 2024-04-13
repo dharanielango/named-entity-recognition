@@ -32,7 +32,7 @@ Evaluate the model with the testing data
 ### STEP 7:
 Plot the Stock prediction plot
 
-Write your own steps
+
 
 ## PROGRAM
 ```
