@@ -44,18 +44,6 @@ from sklearn.model_selection import train_test_split
 from keras import layers
 from keras.models import Model
 
-Essential info about tagged entities:
-```
-geo = Geographical Entity
-org = Organization
-per = Person
-gpe = Geopolitical Entity
-tim = Time indicator
-art = Artifact
-eve = Event
-nat = Natural Phenomenon
-```
-
 data = pd.read_csv("ner_dataset.csv", encoding="latin1")
 
 data.head(50)
